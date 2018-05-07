@@ -40,7 +40,6 @@ async function handlePost(ctx) {
 
 
     let param = ctx.request.body;
-    console.log(param);
 
     // cmd param is a must!
     if (!param.cmd){
