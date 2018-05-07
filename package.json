@@ -1,0 +1,23 @@
+{
+  "name": "robotjs-server",
+  "version": "0.0.0",
+  "description": "robotjs web api",
+  "main": "index.js",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlvlam/robotjs-server.git"
+  },
+  "author": "Karl Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlvlam/robotjs-server/issues"
+  },
+  "homepage": "https://github.com/karlvlam/robotjs-server#readme"
+}
